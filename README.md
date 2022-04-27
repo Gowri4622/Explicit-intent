@@ -1,4 +1,4 @@
-# Ex.No:2 Explicit Intents
+# Ex.No:2b Explicit Intents
 
 Develop program to create a text field and a button “Navigate”. When you enter “www.google.com” and press navigate button it should open google page using Implicit Intents and to create two screens , first screen will take one number input from user. After click on Factorial button, second screen will open and it should display factorial of the same number using Explicit Intents.
 
@@ -139,11 +139,8 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT
-![output](./static/img/o1e2.jpeg)
-![output](./static/img/o2e2.jpeg)
-![output](./static/img/o3e2.png)
-![output](./static/img/o4e2.png)
-
+![WhatsApp Image 2022-04-27 at 3 48 49 PM (2)](https://user-images.githubusercontent.com/75235455/165503766-d78dab1b-d14c-48cf-adb0-4070a0342bdb.jpeg)
+![WhatsApp Image 2022-04-27 at 3 50 10 PM](https://user-images.githubusercontent.com/75235455/165503772-e27463bc-259d-41ab-819e-47cc009f8b75.jpeg)
 
 ## RESULT
 Thus a Simple Android Application to display factorial of the same number using Explicit Intents using Android Studio is developed and executed successfully.
